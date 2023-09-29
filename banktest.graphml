@@ -1,0 +1,1029 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Ergo Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Wisconsin" />
+    <node id="Woodford State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Portage County Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Security Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="National Exchange Bank and Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Isabella Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Michigan" />
+    <node id="First Southern Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Georgia" />
+    <node id="Bank of Hancock County">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Planters and Citizens Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Apex Banking Company of Georgia">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Peoples State Bank of Colfax">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Illinois" />
+    <node id="Farmers State Bank of Emden">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank Michigan">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Napoleon State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Indiana" />
+    <node id="Ohnward Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Iowa" />
+    <node id="Leighton State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="American Trust and Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Liberty Trust &amp; Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers Savings Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Trust and Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Success Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Exchange State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Commercial Bank of Grayson">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Kentucky" />
+    <node id="ChoiceOne Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Hart County Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Shelby State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank and Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Minnesota" />
+    <node id="Stearns Bank Holdingford National Association">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank Minnesota">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Security State Bank of Marine">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers and Merchants State Bank of Pierz">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens State Bank of Roseau">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Farmers &amp; Merchants Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Sherburne State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers State Bank of Underwood">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Security State Bank of Hibbing">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Financial Security Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Produce State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Elysian Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Northern State Bank of Gonvick">
+      <data key="d0">bank</data>
+    </node>
+    <node id="PrinsBank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Pine River State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Hometown Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank of Jeffers">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Lowry State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Commerce Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Vermillion State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Bank &amp; Trust Co.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Clare Bank, National Association">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Goose River Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="North Dakota" />
+    <node id="First State Bank of Golva">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First International Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="United Community Bank of North Dakota">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Peoples State Bank of Velva">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Security Bank - West">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Old Fort Banking Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Ohio" />
+    <node id="The Citizens Bank Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Arkansas" />
+    <node id="FBT Bank &amp; Mortgage">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Farmers and Merchants Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Builtwell Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Tennessee" />
+    <node id="The Bank of Fayette County">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Halls">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Bank and Trust Company of Grainger County">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Savings Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens State Bank of Luling">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Texas" />
+    <node id="Commercial State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Oakwood Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Schertz Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Peoples State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Crowell State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens and Farmers Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Virginia" />
+    <node id="Banner Banks">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Bank of New Glarus">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Oostburg State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers &amp; Merchants Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank Financial">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Waumandee State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Midland States Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Farmers State Bank of Brush">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Colorado" />
+    <node id="State Bank of Graymont">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Olmsted">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Raritan State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Frederick Community Bank, The">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers State Bank &amp; Trust Co.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Town &amp; Country Bank Midwest">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Middletown State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Federated Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Gifford State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers &amp; Merchants Bank of Hutsonville">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank &amp; Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Camp Grove State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Ipava State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Elgin State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First National Bank of Steeleville">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers and Merchants Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Mount Vernon Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Iowa State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Cave City">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="BANKWEST OF KANSAS">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Kansas" />
+    <node id="The First State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Kansas State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Citizens Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Commerce &amp; Trust Co.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Louisiana" />
+    <node id="Exchange Bank and Trust Company, Natchitoches, Louisiana">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Progressive Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="CLB The Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Winnsboro State Bank &amp; Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Arcadian Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="United Minnesota Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Community Development Bank, FSB">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers and Merchants State Bank of Alpha">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Southeast Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Midwest BankCentre">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Missouri" />
+    <node id="Bank of Franklin">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Mississippi" />
+    <node id="Community First Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Bank of Orrick">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Wood &amp; Huston Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="UNICO Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="BTC Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Hawthorn Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank of Missouri">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of New Cambria">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Preferred Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Pinnacle Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Nebraska" />
+    <node id="The Bank of Steinauer">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Central Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Flatwater Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Riverstone Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Dundee Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank of Odell">
+      <data key="d0">bank</data>
+    </node>
+    <node id="American Exchange Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Andover Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Mabrey Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Oklahoma" />
+    <node id="The Exchange Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Hydro">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Jonestown Bank and Trust Company, of Jonestown, Pennsylvania">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Pennsylvania" />
+    <node id="The Muncy Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Cass Commercial Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Mifflinburg Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="SimplyBank.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Merchants &amp; Planters Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Crossroads Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Peoples State Bank of Hallettsville">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Lindell Bank &amp; Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Independence State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Illini State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Campbell Hill">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Dewey Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Du Quoin State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Van Orin">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Grand Rivers Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank of Industry">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Clay County State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Petefish, Skiles &amp; Co.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The First Trust and Savings Bank of Watseka, Illinois">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Campus State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens Bank of Chatsworth">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Buena Vista National Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Clay City Banking Co.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Tompkins State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="West Central Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="State Bank of Bement">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Anderson State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Bank of Versailles">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Murphy-Wall State Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Beecher City">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Chesterfield State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Waterman Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Bluffs">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Legence Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Horatio State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Upper Peninsula State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Central State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Baldwin State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Guaranty State Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Grant County Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The State Bank of Bern">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Baybank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Fidelity State Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Miners State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Central Savings Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Northview Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="United Prairie Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Janesville State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Grand Rapids State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Lake Region Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="F &amp; M Community Bank, National Association">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Randall State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Prime Security Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Alliance Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Center National Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Root River State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="ESB Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Security State Bank of Oklee">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Security Bank Minnesota">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Cambridge State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Stearns Bank National Association">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Lake Central Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Bigfork">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bonanza Valley State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="FM Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank OZK">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Peoples State Bank of Plainview">
+      <data key="d0">bank</data>
+    </node>
+    <node id="St. Clair County State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Limebank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The First State Bank of Shelby">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Montana" />
+    <node id="Peapack-Gladstone Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="New Jersey" />
+    <node id="First Interstate Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First-Citizens Bank &amp; Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="North Carolina" />
+    <node id="Somerset Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Hamlin Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="S&amp;T Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers State Bank of Canton">
+      <data key="d0">bank</data>
+    </node>
+    <node id="South Dakota" />
+    <node id="Texas Champion Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="American Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Transpecos Banks, SSB">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Citizens State Bank, of Arlington">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of Brownsboro">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Fidelity Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First Citizens State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Milton">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bonduel State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Horicon Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Centennial Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="McGehee Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Bank of Salem">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Merchants State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The First National Bank of Izard County">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Gunnison Bank and Trust Company">
+      <data key="d0">bank</data>
+    </node>
+    <node id="McClave State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Citizens Bank of Swainsboro">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers State Bank of Alto Pass, Ill.">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Oakdale State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="First State Bank of St. Peter">
+      <data key="d0">bank</data>
+    </node>
+    <node id="FNBC Bank &amp; Trust">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Bank of Herrin">
+      <data key="d0">bank</data>
+    </node>
+    <node id="The Iuka State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Longview Community Bank">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers and Merchants State Bank of Bushnell">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Farmers-Merchants Bank of Illinois">
+      <data key="d0">bank</data>
+    </node>
+    <node id="Ashton State Bank">
+      <data key="d0">bank</data>
+    </node>
+    <edge source="Ergo Bank" target="Wisconsin" />
+    <edge source="Woodford State Bank" target="Wisconsin" />
+    <edge source="The Portage County Bank" target="Wisconsin" />
+    <edge source="Security Bank" target="Wisconsin" />
+    <edge source="National Exchange Bank and Trust" target="Wisconsin" />
+    <edge source="Isabella Bank" target="Michigan" />
+    <edge source="First Southern Bank" target="Georgia" />
+    <edge source="Bank of Hancock County" target="Georgia" />
+    <edge source="Planters and Citizens Bank" target="Georgia" />
+    <edge source="Apex Banking Company of Georgia" target="Georgia" />
+    <edge source="Peoples State Bank of Colfax" target="Illinois" />
+    <edge source="Farmers State Bank of Emden" target="Illinois" />
+    <edge source="Bank Michigan" target="Michigan" />
+    <edge source="The Napoleon State Bank" target="Indiana" />
+    <edge source="Ohnward Bank &amp; Trust" target="Iowa" />
+    <edge source="Leighton State Bank" target="Iowa" />
+    <edge source="American Trust and Savings Bank" target="Iowa" />
+    <edge source="Liberty Trust &amp; Savings Bank" target="Iowa" />
+    <edge source="Farmers Savings Bank &amp; Trust" target="Iowa" />
+    <edge source="First Trust and Savings Bank" target="Iowa" />
+    <edge source="Citizens Savings Bank" target="Iowa" />
+    <edge source="Success Bank" target="Iowa" />
+    <edge source="Exchange State Bank" target="Iowa" />
+    <edge source="The Commercial Bank of Grayson" target="Kentucky" />
+    <edge source="ChoiceOne Bank" target="Michigan" />
+    <edge source="Hart County Bank and Trust Company" target="Kentucky" />
+    <edge source="The Shelby State Bank" target="Michigan" />
+    <edge source="First State Bank and Trust" target="Minnesota" />
+    <edge source="Stearns Bank Holdingford National Association" target="Minnesota" />
+    <edge source="First State Bank Minnesota" target="Minnesota" />
+    <edge source="Security State Bank of Marine" target="Minnesota" />
+    <edge source="Farmers and Merchants State Bank of Pierz" target="Minnesota" />
+    <edge source="Citizens State Bank of Roseau" target="Minnesota" />
+    <edge source="First Farmers &amp; Merchants Bank" target="Minnesota" />
+    <edge source="Sherburne State Bank" target="Minnesota" />
+    <edge source="Farmers State Bank of Underwood" target="Minnesota" />
+    <edge source="Security State Bank of Hibbing" target="Minnesota" />
+    <edge source="Financial Security Bank" target="Minnesota" />
+    <edge source="Produce State Bank" target="Minnesota" />
+    <edge source="Elysian Bank" target="Minnesota" />
+    <edge source="The Northern State Bank of Gonvick" target="Minnesota" />
+    <edge source="PrinsBank" target="Minnesota" />
+    <edge source="Pine River State Bank" target="Minnesota" />
+    <edge source="Hometown Community Bank" target="Minnesota" />
+    <edge source="State Bank of Jeffers" target="Minnesota" />
+    <edge source="Lowry State Bank" target="Minnesota" />
+    <edge source="Commerce Bank" target="Minnesota" />
+    <edge source="Vermillion State Bank" target="Minnesota" />
+    <edge source="Citizens Bank &amp; Trust Co." target="Minnesota" />
+    <edge source="Clare Bank, National Association" target="Wisconsin" />
+    <edge source="The Goose River Bank" target="North Dakota" />
+    <edge source="First State Bank of Golva" target="North Dakota" />
+    <edge source="First International Bank &amp; Trust" target="North Dakota" />
+    <edge source="United Community Bank of North Dakota" target="North Dakota" />
+    <edge source="Peoples State Bank of Velva" target="North Dakota" />
+    <edge source="First Security Bank - West" target="North Dakota" />
+    <edge source="The Old Fort Banking Company" target="Ohio" />
+    <edge source="The Citizens Bank Company" target="Ohio" />
+    <edge source="Farmers Bank and Trust Company" target="Arkansas" />
+    <edge source="FBT Bank &amp; Mortgage" target="Arkansas" />
+    <edge source="The Farmers and Merchants Bank" target="Ohio" />
+    <edge source="Builtwell Bank" target="Tennessee" />
+    <edge source="The Bank of Fayette County" target="Tennessee" />
+    <edge source="Bank of Halls" target="Tennessee" />
+    <edge source="Citizens Bank and Trust Company of Grainger County" target="Tennessee" />
+    <edge source="Citizens Savings Bank and Trust Company" target="Tennessee" />
+    <edge source="Citizens State Bank of Luling" target="Texas" />
+    <edge source="Commercial State Bank" target="Texas" />
+    <edge source="Oakwood Bank" target="Texas" />
+    <edge source="Schertz Bank &amp; Trust" target="Texas" />
+    <edge source="Peoples State Bank" target="Texas" />
+    <edge source="Crowell State Bank" target="Texas" />
+    <edge source="Citizens and Farmers Bank" target="Virginia" />
+    <edge source="Banner Banks" target="Wisconsin" />
+    <edge source="The Bank of New Glarus" target="Wisconsin" />
+    <edge source="Oostburg State Bank" target="Wisconsin" />
+    <edge source="Farmers &amp; Merchants Bank &amp; Trust" target="Wisconsin" />
+    <edge source="State Bank Financial" target="Wisconsin" />
+    <edge source="Waumandee State Bank" target="Wisconsin" />
+    <edge source="Midland States Bank" target="Illinois" />
+    <edge source="The Farmers State Bank of Brush" target="Colorado" />
+    <edge source="State Bank of Graymont" target="Illinois" />
+    <edge source="First State Bank of Olmsted" target="Illinois" />
+    <edge source="Raritan State Bank" target="Illinois" />
+    <edge source="Frederick Community Bank, The" target="Illinois" />
+    <edge source="Farmers State Bank &amp; Trust Co." target="Illinois" />
+    <edge source="Town &amp; Country Bank Midwest" target="Illinois" />
+    <edge source="Middletown State Bank" target="Illinois" />
+    <edge source="Federated Bank" target="Illinois" />
+    <edge source="The Gifford State Bank" target="Illinois" />
+    <edge source="Farmers &amp; Merchants Bank of Hutsonville" target="Illinois" />
+    <edge source="Bank &amp; Trust Company" target="Illinois" />
+    <edge source="Camp Grove State Bank" target="Illinois" />
+    <edge source="Ipava State Bank" target="Illinois" />
+    <edge source="Citizens State Bank" target="Illinois" />
+    <edge source="Elgin State Bank" target="Iowa" />
+    <edge source="First National Bank of Steeleville" target="Illinois" />
+    <edge source="Farmers and Merchants Savings Bank" target="Iowa" />
+    <edge source="Mount Vernon Bank and Trust Company" target="Iowa" />
+    <edge source="Iowa State Bank" target="Iowa" />
+    <edge source="Bank of Cave City" target="Arkansas" />
+    <edge source="Farmers Savings Bank" target="Iowa" />
+    <edge source="BANKWEST OF KANSAS" target="Kansas" />
+    <edge source="The First State Bank" target="Kansas" />
+    <edge source="The First State Bank" target="Texas" />
+    <edge source="The Kansas State Bank" target="Kansas" />
+    <edge source="The Citizens Bank" target="Kentucky" />
+    <edge source="Bank of Commerce &amp; Trust Co." target="Louisiana" />
+    <edge source="Exchange Bank and Trust Company, Natchitoches, Louisiana" target="Louisiana" />
+    <edge source="Citizens Progressive Bank" target="Louisiana" />
+    <edge source="CLB The Community Bank" target="Louisiana" />
+    <edge source="Winnsboro State Bank &amp; Trust Company" target="Louisiana" />
+    <edge source="Arcadian Bank" target="Minnesota" />
+    <edge source="United Minnesota Bank" target="Minnesota" />
+    <edge source="Community Development Bank, FSB" target="Minnesota" />
+    <edge source="Farmers and Merchants State Bank of Alpha" target="Minnesota" />
+    <edge source="First Southeast Bank" target="Minnesota" />
+    <edge source="Midwest BankCentre" target="Missouri" />
+    <edge source="Bank of Franklin" target="Mississippi" />
+    <edge source="Community First Bank" target="Missouri" />
+    <edge source="The Bank of Orrick" target="Missouri" />
+    <edge source="Wood &amp; Huston Bank" target="Missouri" />
+    <edge source="UNICO Bank" target="Missouri" />
+    <edge source="BTC Bank" target="Missouri" />
+    <edge source="Hawthorn Bank" target="Missouri" />
+    <edge source="State Bank of Missouri" target="Missouri" />
+    <edge source="Bank of New Cambria" target="Missouri" />
+    <edge source="Preferred Bank" target="Missouri" />
+    <edge source="Pinnacle Bank" target="Nebraska" />
+    <edge source="The Bank of Steinauer" target="Nebraska" />
+    <edge source="First Central Bank" target="Nebraska" />
+    <edge source="Flatwater Bank" target="Nebraska" />
+    <edge source="Riverstone Bank" target="Nebraska" />
+    <edge source="Dundee Bank" target="Nebraska" />
+    <edge source="State Bank of Odell" target="Nebraska" />
+    <edge source="American Exchange Bank" target="Nebraska" />
+    <edge source="The Andover Bank" target="Ohio" />
+    <edge source="Mabrey Bank" target="Oklahoma" />
+    <edge source="The Exchange Bank" target="Oklahoma" />
+    <edge source="Bank of Hydro" target="Oklahoma" />
+    <edge source="Jonestown Bank and Trust Company, of Jonestown, Pennsylvania" target="Pennsylvania" />
+    <edge source="The Muncy Bank and Trust Company" target="Pennsylvania" />
+    <edge source="Cass Commercial Bank" target="Missouri" />
+    <edge source="Mifflinburg Bank and Trust Company" target="Pennsylvania" />
+    <edge source="SimplyBank." target="Tennessee" />
+    <edge source="The Merchants &amp; Planters Bank" target="Arkansas" />
+    <edge source="First State Bank" target="Texas" />
+    <edge source="Crossroads Bank" target="Texas" />
+    <edge source="Peoples State Bank of Hallettsville" target="Texas" />
+    <edge source="Lindell Bank &amp; Trust Company" target="Missouri" />
+    <edge source="Independence State Bank" target="Wisconsin" />
+    <edge source="Illini State Bank" target="Illinois" />
+    <edge source="Community Bank" target="Illinois" />
+    <edge source="First State Bank of Campbell Hill" target="Illinois" />
+    <edge source="Dewey Bank" target="Illinois" />
+    <edge source="Du Quoin State Bank" target="Illinois" />
+    <edge source="First State Bank of Van Orin" target="Illinois" />
+    <edge source="Grand Rivers Community Bank" target="Illinois" />
+    <edge source="State Bank of Industry" target="Illinois" />
+    <edge source="Clay County State Bank" target="Illinois" />
+    <edge source="Petefish, Skiles &amp; Co." target="Illinois" />
+    <edge source="The First Trust and Savings Bank of Watseka, Illinois" target="Illinois" />
+    <edge source="Campus State Bank" target="Illinois" />
+    <edge source="Citizens Bank of Chatsworth" target="Illinois" />
+    <edge source="Buena Vista National Bank" target="Illinois" />
+    <edge source="The Clay City Banking Co." target="Illinois" />
+    <edge source="Tompkins State Bank" target="Illinois" />
+    <edge source="West Central Bank" target="Illinois" />
+    <edge source="State Bank of Bement" target="Illinois" />
+    <edge source="Anderson State Bank" target="Illinois" />
+    <edge source="The Bank of Versailles" target="Missouri" />
+    <edge source="Murphy-Wall State Bank and Trust Company" target="Illinois" />
+    <edge source="First State Bank of Beecher City" target="Illinois" />
+    <edge source="Chesterfield State Bank" target="Illinois" />
+    <edge source="Waterman Bank" target="Illinois" />
+    <edge source="Bank of Bluffs" target="Illinois" />
+    <edge source="Legence Bank" target="Illinois" />
+    <edge source="Horatio State Bank" target="Arkansas" />
+    <edge source="Upper Peninsula State Bank" target="Michigan" />
+    <edge source="Central State Bank" target="Iowa" />
+    <edge source="The Baldwin State Bank" target="Kansas" />
+    <edge source="Guaranty State Bank and Trust Company" target="Kansas" />
+    <edge source="Grant County Bank" target="Kansas" />
+    <edge source="The State Bank of Bern" target="Kansas" />
+    <edge source="Baybank" target="Michigan" />
+    <edge source="The Fidelity State Bank and Trust Company" target="Kansas" />
+    <edge source="The Miners State Bank" target="Michigan" />
+    <edge source="Central Savings Bank" target="Michigan" />
+    <edge source="Northview Bank" target="Minnesota" />
+    <edge source="United Prairie Bank" target="Minnesota" />
+    <edge source="Janesville State Bank" target="Minnesota" />
+    <edge source="Grand Rapids State Bank" target="Minnesota" />
+    <edge source="Lake Region Bank" target="Minnesota" />
+    <edge source="F &amp; M Community Bank, National Association" target="Minnesota" />
+    <edge source="Randall State Bank" target="Minnesota" />
+    <edge source="Prime Security Bank" target="Minnesota" />
+    <edge source="Alliance Bank" target="Minnesota" />
+    <edge source="Center National Bank" target="Minnesota" />
+    <edge source="Root River State Bank" target="Minnesota" />
+    <edge source="ESB Bank" target="Minnesota" />
+    <edge source="Security State Bank of Oklee" target="Minnesota" />
+    <edge source="Security Bank Minnesota" target="Minnesota" />
+    <edge source="Cambridge State Bank" target="Minnesota" />
+    <edge source="Stearns Bank National Association" target="Minnesota" />
+    <edge source="Lake Central Bank" target="Minnesota" />
+    <edge source="First State Bank of Bigfork" target="Minnesota" />
+    <edge source="Bonanza Valley State Bank" target="Minnesota" />
+    <edge source="FM Bank" target="Minnesota" />
+    <edge source="Bank OZK" target="Arkansas" />
+    <edge source="Peoples State Bank of Plainview" target="Minnesota" />
+    <edge source="St. Clair County State Bank" target="Missouri" />
+    <edge source="Limebank" target="Missouri" />
+    <edge source="The First State Bank of Shelby" target="Montana" />
+    <edge source="Peapack-Gladstone Bank" target="New Jersey" />
+    <edge source="First Interstate Bank" target="Montana" />
+    <edge source="First-Citizens Bank &amp; Trust Company" target="North Carolina" />
+    <edge source="Somerset Trust Company" target="Pennsylvania" />
+    <edge source="Hamlin Bank and Trust Company" target="Pennsylvania" />
+    <edge source="S&amp;T Bank" target="Pennsylvania" />
+    <edge source="Farmers State Bank of Canton" target="South Dakota" />
+    <edge source="Texas Champion Bank" target="Texas" />
+    <edge source="American Bank &amp; Trust" target="South Dakota" />
+    <edge source="Transpecos Banks, SSB" target="Texas" />
+    <edge source="Citizens State Bank, of Arlington" target="South Dakota" />
+    <edge source="First State Bank of Brownsboro" target="Texas" />
+    <edge source="First Fidelity Bank" target="South Dakota" />
+    <edge source="First Community Bank" target="Wisconsin" />
+    <edge source="First Citizens State Bank" target="Wisconsin" />
+    <edge source="Bank of Milton" target="Wisconsin" />
+    <edge source="Bonduel State Bank" target="Wisconsin" />
+    <edge source="Horicon Bank" target="Wisconsin" />
+    <edge source="Centennial Bank" target="Arkansas" />
+    <edge source="McGehee Bank" target="Arkansas" />
+    <edge source="Bank of Salem" target="Arkansas" />
+    <edge source="Merchants State Bank" target="South Dakota" />
+    <edge source="The First National Bank of Izard County" target="Arkansas" />
+    <edge source="The Gunnison Bank and Trust Company" target="Colorado" />
+    <edge source="McClave State Bank" target="Colorado" />
+    <edge source="The Citizens Bank of Swainsboro" target="Georgia" />
+    <edge source="Farmers State Bank of Alto Pass, Ill." target="Illinois" />
+    <edge source="Oakdale State Bank" target="Illinois" />
+    <edge source="First State Bank of St. Peter" target="Illinois" />
+    <edge source="FNBC Bank &amp; Trust" target="Illinois" />
+    <edge source="Farmers State Bank" target="Illinois" />
+    <edge source="The Bank of Herrin" target="Illinois" />
+    <edge source="The Iuka State Bank" target="Illinois" />
+    <edge source="Longview Community Bank" target="Illinois" />
+    <edge source="Farmers and Merchants State Bank of Bushnell" target="Illinois" />
+    <edge source="Farmers-Merchants Bank of Illinois" target="Illinois" />
+    <edge source="Ashton State Bank" target="Iowa" />
+  </graph>
+</graphml>
