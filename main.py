@@ -8,10 +8,13 @@ api = 'https://banks.data.fdic.gov/api'
 endpoint = '/institutions'
 
 
-params = {'filters': 'ACTIVE:1',
+#northeast =("Indiana",’Illinois’, ‘Michigan’,’Ohio’,’ Wisconsin’, ‘Iowa’,’ Nebraska’, ‘Kansas’ ,’North Dakota’, ‘Minnesota’,’South Dakota’,’Missouri’)
+
+params = {'filters': 'ACTIVE:1 AND STNAME:(‘Arizona’,’Colorado’, ‘Idaho’, ‘New Mexico’, ‘Montana’, ‘Utah’, ‘Nevada’, ‘Wyoming’, ‘Alaska’, ‘California’,’Hawaii’,’Oregon’,’Washington’)',
           'sort_by':'STNAME',
           'fields': 'NAME,ADDRESS,CITY,STNAME,COUNTY,ZIP,STCNTY,LATITUDE,LONGITUDE,ACTIVE',
-          'limit':250
+          'limit':2500
+          
           }
         #   'sort by':'STNAME'}
 
@@ -74,5 +77,5 @@ for line in data:
 pos = nx.spring_layout(G, seed=42)
 plt.figure(figsize=(10, 8))
 nx.draw(G, pos, with_labels=True, node_size=200, width =.5, font_size = 3,node_color='skyblue')
-# plt.show()
-nx.write_graphml(G,'banktest.graphml')
+plt.show()
+nx.write_graphml(G,'bankswest2500.graphml')
